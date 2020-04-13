@@ -1,5 +1,4 @@
-[
-    {
+[{
         "name": "zlx",
         "active": true,
         "nickname": "小村儿",
@@ -135,6 +134,12 @@
         "name": "wendraw",
         "active": true,
         "nickname": "wendraw",
+        "clean": false
+    },
+    {
+        "name": "chimyking",
+        "active": true,
+        "nickname": "chimy",
         "clean": false
     }
 ]
